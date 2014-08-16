@@ -2,5 +2,5 @@ opencpg
 =======
 
 <div>
-<a href="alert('')">test</a>
+<a href="javascript:alert('')">test</a>
 </div>
